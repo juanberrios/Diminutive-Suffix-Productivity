@@ -1,1 +1,3 @@
-A license will go here, if needed.  
+# Licence
+
+- A license will go here, if needed.  
