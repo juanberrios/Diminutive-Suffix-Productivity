@@ -5,9 +5,13 @@
 - **Table of contents**:
   - [Preliminary Report](##Preliminary-Report)
 
-## Preliminary Report
+## Preliminary report
 
 - February 6, 2020.
 - Repo created.
 - Added `LICENSE.md`, `README.md`, `progress_report.md`, `project_plan.md`.
 - Added `.gitignore` file for files that are not meant to be tracked as of now.
+
+## 1st progress report
+
+- February 25, 2020.
