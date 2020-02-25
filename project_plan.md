@@ -18,7 +18,7 @@
 
 ## 2. Analysis
 - My end goal is to measure the productivity of the suffixes and hence provide quantitative support to the descriptive claims that have been made in the literature. More broadly, I am interested in testing the empirical validity of statistical measurements of productivity that have been mostly used for English.
-  -  Measures of realized, expanding, and potential productivity [(Baayen, 2009)](https://www.degruyter.com/view/books/9783110213881.2/9783110213881.2.899/9783110213881.2.899.xml).
+  -  Measures of realized, expanding, and potential productivity [(Baayen, 2009)](https://www.degruyter.com/view/books/9783110213881.2/9783110213881.2.899/9783110213881.2.899.xml). These measures are useful because they allow us to quantify how productive a morphological pattern is, assuming the view that productivity is a matter of gradience rather than a contrast between productive and unproductive categories. 
 - Three questions:
   - What is the productivity of each suffix?
     - H1: *-ito* is claimed to be the more productive suffix by far. I expect this to be reflected in the data.
