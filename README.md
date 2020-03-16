@@ -3,6 +3,7 @@
 
 - **Contents:**
   - [Code](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/code)
+    - [Corpus processing](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/corpus_processing.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/corpus_processing.ipynb###4.-Storing-files)) 
   - [Data samples](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/data_samples)
 
 - **Project summary:**
