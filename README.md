@@ -8,7 +8,7 @@
   - [Data samples](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/data_samples)
     - There are two files available. The `.txt` is a smaller sample for quick access that can be viewed online. The `.zip` file is a full sample that can be downloaded.
   - [License](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/LICENSE.md)
-    - This repository is licensed under theGNU General Public License v3.0.
+    - This repository is licensed under the GNU General Public License v3.0.
   - [Progress report](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/progress_report.md)
     - Periodical updates on the progress I make as I work on the project.
   - [Project plan](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/project_plan.md)
