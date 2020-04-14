@@ -8,8 +8,6 @@
     - [Statistical analysis](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/statistics_analysis.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/statistics_analysis.ipynb))
   - [Data samples](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/data_samples)
     - There are two files available. The `.txt` file is a smaller sample for quick access that can be viewed online. The `.zip` file is a full sample that can be downloaded.
-  - [Figures](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/figures)
-    - Visualizations generated while processing and analyzing the data.
   - [License](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/LICENSE.md)
     - This repository is licensed under the GNU General Public License v3.0.
   - [Progress report](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/progress_report.md)
