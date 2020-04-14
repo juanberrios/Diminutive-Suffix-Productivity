@@ -1,8 +1,8 @@
 # Diminutive suffix productivity in Spanish
 
 - Table of contents:
-  - [1. Data](#1.-Data)
-  - [2. Analysis](#2.-Analysis)
+  - [1. Data](#1-Data)
+  - [2. Analysis](#2-Analysis)
   - [3. Presentation](#3-Presentation)
 
 ## Summary
