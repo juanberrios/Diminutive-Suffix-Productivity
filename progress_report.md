@@ -3,8 +3,10 @@
 - Juan Berríos | jeb358@pitt.edu
 - The purpose of this file is to document the progress I make on this project as the term progresses. It will contain a total of three reports (other than the preliminary one) by the end of term.<br/>
 - **Table of contents**:
-  - [Preliminary Report](##Preliminary-Report)
-  - [1st progress report](##1st-progress-report)
+  - [Preliminary Report](#Preliminary-report)
+  - [1st progress report](#1st-progress-report)
+  - [2nd progress report](#2nd-progress-report)
+  - [3rd progress report](#3rd-progress-report)
 
 ## Preliminary report
 
@@ -17,7 +19,7 @@
 
 - February 25, 2020.
 - Summary:
-  - Over the last two weeks I worked on data acquisition and initial exploration and cleaning. I now have access to the complete data set thanks to the [Department's](https://www.linguistics.pitt.edu/) license (shut out to [Dr. Han](https://github.com/naraehan)). The first step was to take a general look at the data set. It comes in three formats and is organized in directories by country. I will use the lemmatized and POS-tagged format for my project. Files come in `.txt` format and they are tab-delimited. Samples of the data that look just like the ones I am using are available at the [official website](https://www.corpusdata.org/formats.asp). I have also shared a copy in the [data_samples](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/data_samples) directory of my repository. I have also documented corpus processing in a [Jupyter notebook](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/corpus_processing.ipynb). Thus far, I have created a pipeline for loading the corpus directory for each country, extracting tab-delimited files from them and turn said files into data frames. I also removed unnecessary rows such as symbols or redacted information (replaced with '@' in the data set).
+  - Over the last two weeks I worked on data acquisition and initial exploration and cleaning. I now have access to the complete data set thanks to the [Department's](https://www.linguistics.pitt.edu/) license (a shout-out to [Dr. Han](https://github.com/naraehan)). The first step was to take a general look at the data set. It comes in three formats and is organized in directories by country. I will use the lemmatized and POS-tagged format for my project. Files come in `.txt` format and they are tab-delimited. Samples of the data that look just like the ones I am using are available at the [official website](https://www.corpusdata.org/formats.asp). I have also shared a copy in the [data_samples](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/data_samples) directory of my repository. I have also documented corpus processing in a [Jupyter notebook](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/corpus_processing.ipynb). Thus far, I have created a pipeline for loading the corpus directory for each country, extracting tab-delimited files from them and turn said files into data frames. I also removed unnecessary rows such as symbols or redacted information (replaced with '@' in the data set).
 - Sharing plan:
   - I have shared a sample that is in exactly the same format as the licensed data set. I am only at liberty to share such a sample due to the nature of the data set's license, but I think it is enough to (i) illustrate what the data looks like and (ii) run my code with it if somebody wishes to do so. If interested, members of the Department can also request access to the full data set. As for my own license, I am currently deciding between an MIT license and a GNU license.
 - What there is left to do:
@@ -35,3 +37,12 @@
   - For the next progress report I want to focus on the linguistic side and go from exploratory to statistical analysis.
   - I plan to add range of visualizations that help discern patterns in the data.
   - I might further refine my frequency-based cleaning procedure. This is not a priority as of now but it's something I might come back to.
+
+## 3rd progress report
+
+- April 13, 2020.
+- Summary:
+  - Updated code on (existing) notebooks [corpus processing](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/corpus_processing.ipynb) and [cleaning and exploratory analysis](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/cleaning_analysis.ipynb) in light of the computational efficiency discussions we have had in class. I am now using less memory and I cleaned up the code by creating master functions. In the latter notebook I also updated visualizations. I also created a (new continuing) [notebook]((https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/statistics_analysis.ipynb) solely for analysis. I started addressing my research questions by looking at differences between statistical measures of productivity. A summary of findings up to this point is in included in the notebook, as well as visualizations. Lastly, I also edited my `README.md` to add new components and a link to my guestbook. Data files are finished as of my last report.
+- What there is left to do:
+  - Given that I have all the numbers now, as a last step I would like to employ inferential statistics to examine whether certain differences (between countries or between suffixes) are statistically significant.
+  - I might further refine and/or new forms of visualizations of the results.
