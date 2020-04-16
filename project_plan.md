@@ -22,9 +22,9 @@
 - Three questions:
   - What is the productivity of each suffix?
     - H1: *-ito* is claimed to be the more productive suffix by far. I expect this to be reflected in the data.
-  - Are the differences statiscally signicant?
+  - Are the differences statistically significant?
     - H2: I also expect differences, particularly those of potential productivity, to be significant.
-  - Are differences reflected across variaties?
+  - Are differences reflected across varieties?
     - H3: one of the suffixes (*-illo*) is claimed to be more productive in Spain.
 - As of now I plan to use regression models.
 - If time allows:
