@@ -1,19 +1,24 @@
 # Diminutive-Suffix-Productivity
-- Juan Berríos | jeb358@pitt.edu | Last updated: April 11, 2020
+- Juan Berríos | jeb358@pitt.edu | Last updated: April 24, 2020
 
 - **Contents:**
   - [Code](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/code)
     - [Corpus processing](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/corpus_processing.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/corpus_processing.ipynb))
-    - [Further cleaning and exploratory analysis](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/cleaning_analysis.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/cleaning_analysis.ipynb))
+    - [Cleaning and exploratory analysis](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/cleaning_exploratory_analysis.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/cleaning_exploratory_analysis.ipynb))
     - [Statistical analysis](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/statistics_analysis.ipynb) ([nbviewer](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/statistics_analysis.ipynb))
   - [Data samples](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/data_samples)
     - There are two files available. The `.txt` file is a smaller sample for quick access that can be viewed online. The `.zip` file is a full sample that can be downloaded.
+  - [Figures](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/figures)
+  - [Presentation](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/tree/master/presentation)
+    - Contains slides in `.pdf` as well as an audio-narrated PowerPoint version.
   - [License](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/LICENSE.md)
     - This repository is licensed under the GNU General Public License v3.0.
   - [Progress report](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/progress_report.md)
     - Periodical updates on the progress I make as I work on the project.
   - [Project plan](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/project_plan.md)
     - Summary, goals, and scope of the project.
+  - [Final report](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/final_report.md)
+      - A final report that summarizes results, analysis, and future directions.
   - [Guestbook](https://github.com/Data-Science-for-Linguists-2020/Class-Plaza/blob/master/guestbooks/guestbook_juan.md)
     - Hosted in a collaborative class repository.
 
