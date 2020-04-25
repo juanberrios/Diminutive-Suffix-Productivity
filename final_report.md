@@ -53,11 +53,11 @@ In the [last notebook](https://github.com/Data-Science-for-Linguists-2020/Diminu
 
 The following are visualizations of the distribution of the data. You can find tables providing specific figures for each diminutive by POS and variety in [the cleaning and exploratory analysis notebook](https://github.com/Data-Science-for-Linguists-2020/Diminutive-Suffix-Productivity/blob/master/code/cleaning_exploratory_analysis.ipynb).
 
-<img src="../figures/1_diminutive.png" alt="Figure 1" width="400">
+<img src="figures/1_diminutive.png" alt="Figure 1" width="400">
 
 Figure 1 above illustrates the token counts for each diminutive across the entire data set. As expected, <i>-ito</i> is far more numerous. Its X tokens account for X% of the data, as compared to X tokens (X%) <i>-illo</i>. Token counts, however, are only useful for a preliminary estimation of differences in size given that productivity can vary chronologically and a category with a high token count (e.g., <i>-ment</i> in English) might me mostly unproductive in the present day. It is, nevertheless, a good point of departure.
 
-<img src="../figures/2_diminutive_POS.png" width="400">
+<img src="figures/2_diminutive_POS.png" width="400">
 
 Figure 2 above illustrates the ratio of diminutive suffix by POS. I use ratios rather than counts for this plot and the following given the imbalance between categories. It appears that there's a bigger gap in usage depending on the token's category. <i>-illo</i> appears to be less common with adjectives. For nouns, the proportion amounts to 18% of the tokens, whereas for adjectives it is only 8%.
 
@@ -84,7 +84,7 @@ Lastly and most importantly, the ratio of diminutive suffixes used by variety. B
 * United States: US
 * Uruguay: UY
 
-<img src="../figures/3_diminutive_variety.png" alt="Figure 1" width="800">
+<img src="figures/3_diminutive_variety.png" alt="Figure 1" width="800">
 
 As can be seen in the chart, the ratio is similar for most countries other than Spain and (interestingly) Costa Rica, which are the only varieties where <i>-illo</i> eclipses the 20% threshold (21 and 23%, respectively). I expected the result for Spain given that in descriptive work it is claimed that the suffix is more common there, but I did not expect Costa Rica not only to have a similar rate but actually surpass. Again, since these ratios are based on tokens, caution must be used, but it is one of the first surprising results.
 
@@ -99,19 +99,19 @@ I will now start with an analysis proper, focused on statistical measures of pro
 
 1. Realized productivity: as indicated by the type count, <i>-ito</i> is the larger category out of the two considered. This is visualized in Figure 4 below.
 
-<img src="../figures/4_types_across_varieties.png" alt="Figure 1" width="400">
+<img src="figures/4_types_across_varieties.png" alt="Figure 1" width="400">
 
 2. Expanding productivity: as indicated by the hapax legomena count, <i>-ito</i> is attracting more members than <i>illo</i>. This is visualized in Figure 5 below.
 
-<img src="../figures/5_hapax_across_varieties.png" alt="Figure 1" width="400">
+<img src="figures/5_hapax_across_varieties.png" alt="Figure 1" width="400">
 
 3. Potential productivity: as measured by the category-conditioned degree of productivity (*P*) or the hapax-conditioned degree of productivity (*P**). The category-conditioned degree of productivity doesn't appear to fully capture the difference between these two suffixes in terms of occasionalisms, given that both suffixes appear to have around the same standing with <i>-illo</i> showing a slight advantage. This might be due to the fact that <i>-illo</i> has notoriously fewer tokens, so the comparison is not completely fair. Alternatively, the hapax-conditioned degree of productivity shows a far more noticeable difference, with <i>-illo</i> having a score that is fourth times larger than that of <i>-ito</i>.
 
 Lastly, Figures 6 and 7 below illustrate the category-conditioned and hapax-conditioned degree of productivity by variety. Given that varieties are only being compared to themselves, the bars are parallel to each other; i.e., they are not affected by imbalances in corpus size.
 
-<img src="../figures/6_category_contioned_productivity.png" alt="Figure 1" width="800">
+<img src="figures/6_category_contioned_productivity.png" alt="Figure 1" width="800">
 
-<img src="../figures/7_hapax_contioned_productivity.png" alt="Figure 1" width="800">
+<img src="figures/7_hapax_contioned_productivity.png" alt="Figure 1" width="800">
 
 Within varieties, the numbers appear to follow the same trend as those of the master data frame. A few differences are worth noting, however.  Whereas <i>P</i> above showed both suffixes in similar standing, the differences here are higher in favor <i>-illo</i>, particularly in countries such as Peru where it almost doubles <i>-ito</i>. For <i>P*</i>, however, <i>-ito</i> remains the prevailing suffix in all varieties, although differences vary by country and might worth looking at with inferential statistics.
 
