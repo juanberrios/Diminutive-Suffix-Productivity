@@ -1,8 +1,8 @@
 # Diminutive-Suffix-Productivity
-- Juan Berríos | jeb358@pitt.edu | Last updated: April 24, 2020
+- Juan Berríos | jeb358@pitt.edu | Last updated: October 26, 2022
 
 - **Project summary:**
-  - Welcome! This is the repository for my LING2340 (Data Science for Linguists) term project. The purpose of this project is to do a cross-dialectal analysis of two competing Spanish diminutive suffixes (*-ito*, *-illo*) in terms of productivity (i.e., the extent to which a morphological pattern can be applied to new bases and form new words). In order to quantify productivity, I use statistical measures (e.g., Baayen's *P*), which can provide empirical grounding to descriptive claims made in the literature about the prevalence of each suffix. Lastly, this analysis also considers dialectal variation, given that different varieties of Spanish might not necessarily show the same trends.
+  - Welcome! This is the repository for a linguistics project on morphological productivity. The purpose of the project is to do a cross-dialectal analysis of two competing Spanish diminutive suffixes (*-ito*, *-illo*) in terms of productivity (i.e., the extent to which a morphological pattern can be applied to new bases and form new words). In order to quantify productivity, I use statistical measures (e.g., Baayen's *P*), which can provide empirical grounding to descriptive claims made in the literature about the prevalence of each suffix. Lastly, this analysis also considers dialectal variation, given that different varieties of Spanish might not necessarily show the same trends.
 
 - **The data:**
   - The data set used in this project is the [Corpus del Español Web/Dialects](https://www.corpusdelespanol.org/web-dial/), a 2-billion word, POS-tagged corpus that covers all Spanish-speaking countries. It has an online interface where advanced queries can be made and full exploration of the data set can be made by [purchasing a license](https://www.corpusdata.org/spanish.asp).
@@ -30,4 +30,4 @@
 
 - **Contact:**
 
-- Feel free to contact me by email or through GitHub if you are interested in the project or the theory behind it. You can also find information about my other projects on [my website](http://pitt.edu/~jeb358/) or my [Research Gate profile](https://www.researchgate.net/profile/Juan_Berrios8).
+- Feel free to contact me by email or through GitHub if you are interested in the project or the theory behind it. You can also find information about my other projects on [my website](http://juanberrios.github.io/) or my [Research Gate profile](https://www.researchgate.net/profile/Juan_Berrios8).
